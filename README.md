@@ -8,4 +8,4 @@ Tips for all people on machine learning and deep learning - learning from and ma
 3. www.medium.com
 4. www.stackoverflow.com
 
-Thanks for the creator and the community of these sites.
+Thanks to the creator and the community of these sites.
