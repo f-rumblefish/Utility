@@ -10,7 +10,6 @@
 # Please also check flow_from_directory in Keras 
 # https://medium.com/@vijayabhaskar96/tutorial-image-classification-with-keras-flow-from-directory-and-generators-95f75ebe5720 
 
-
 from os import listdir
 from os.path import isfile, join
 
